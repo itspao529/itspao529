@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Header](https://capsule-render.vercel.app/api?type=venom&color=0:FFB3D9,50:D4A8F0,100:9B59B6&height=200&section=header&text=Paola%20Castillo&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=Frontend%20Developer%20·%20UDB%20·%20El%20Salvador&descSize=16&descAlign=50&descAlignY=78&fontAlignY=55)](https://github.com/itspao529)
+[![Header](https://capsule-render.vercel.app/api?type=cylinder&color=0:C850C0,50:FF69B4,100:9B59B6&height=180&section=header&text=Paola%20Castillo&fontSize=44&fontColor=ffffff&animation=fadeIn&desc=Frontend%20Developer%20·%20UDB%20·%20El%20Salvador&descSize=15&descAlign=50&descAlignY=78&fontAlignY=52)](https://github.com/itspao529)
 
 <br>
 
@@ -59,7 +59,7 @@ Me apasiona crear interfaces que no solo funcionen bien, sino que también se si
 | Framework | Angular | En progreso |
 | Backend | Node.js + APIs REST | En progreso |
 | Base de datos | SQL · MySQL | Consolidando |
-| POO | Java · C# | Aplicando |
+| Programación orientada a objetos | Java · C# | Aplicando |
 | Cloud | Azure · Docker | Explorando |
 | Multiplataforma | React Native | Explorando |
 
@@ -113,6 +113,6 @@ Me apasiona crear interfaces que no solo funcionen bien, sino que también se si
 
 <br>
 
-[![Footer](https://capsule-render.vercel.app/api?type=venom&color=0:9B59B6,50:D4A8F0,100:FFB3D9&height=120&section=footer)](https://github.com/itspao529)
+[![Footer](https://capsule-render.vercel.app/api?type=cylinder&color=0:9B59B6,50:FF69B4,100:C850C0&height=120&section=footer)](https://github.com/itspao529)
 
 </div>
