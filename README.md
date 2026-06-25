@@ -27,7 +27,6 @@ Me apasiona crear interfaces que no solo funcionen bien, sino que también se si
 - Técnico en Ingeniería en Computación · UDB
 - San Salvador, El Salvador
 - Enfocada en Frontend con visión Full Stack
-- Música y café son mi entorno ideal para trabajar
 
 <br clear="right"/>
 
@@ -109,7 +108,6 @@ Me apasiona crear interfaces que no solo funcionen bien, sino que también se si
 
 <div align="center">
 
-*"El código es arte — y el CSS es la paleta de colores"*
 
 <br>
 
